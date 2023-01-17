@@ -1,10 +1,10 @@
 <h2> Hi there, I'm Bernardo Oradovschi! </h2>
-<p> Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>.
+<p> Computer and Information Engineer - <a href="https://ufrj.br/en/">UFRJ</a>.
 
 <p>
 <h3>Experiences</h3>
 <ul>
-  <li><em>Research and Development Intern at <a href="https://www.vallourec.com/">Vallourec</a></em> (Apr 2021 - Currently).<br /></li>
+  <li><em>Research and Development Intern at <a href="https://www.vallourec.com/">Vallourec</a></em> (Apr 2021 - Jan 2023).<br /></li>
   <li><em>Simulation's Manager at <a href="https://minervanautica.poli.ufrj.br/">Minerva Náutica</a></em> (Jan 2018 - Oct 2018).<br /></li>
   <li><em>Software developer at <a href="https://minervanautica.poli.ufrj.br/">Minerva Náutica</a></em> (Sep 2017 - Dec 2017).<br /></li>
 </ul>
